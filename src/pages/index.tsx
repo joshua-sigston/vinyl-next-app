@@ -22,7 +22,7 @@ export default function Home() {
             width={5184}
             height={3456}
             alt="vinyl recod"
-            className="w-full lg:h-[80%] object-cover"
+            className="w-full lg:h-[80%] object-cover shadow-md"
           />
         </LeftImageContainer>
 
@@ -42,7 +42,7 @@ export default function Home() {
             width={2400}
             height={300}
             alt="vinyl recod"
-            className="h-full lg:h-[70%] lg:mb-[2em] object-cover"
+            className="h-full lg:h-[70%] lg:mb-[2em] object-cover shadow-md"
           />
         </RightImageContainer>
       </section>
